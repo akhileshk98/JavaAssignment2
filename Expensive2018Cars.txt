@@ -1,1 +1,1 @@
-Make: Honda, Model: Civic, Year: 2018, Price: 22000.0
+1, Toyota, Camry

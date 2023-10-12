@@ -1,2 +1,1 @@
-Make: Toyota, Model: Camry, Year: 2019, Price: 25000.0
-Make: Toyota, Model: Corolla, Year: 2017, Price: 18000.0
+1, Toyota, Camry
